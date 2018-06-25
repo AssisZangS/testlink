@@ -1,1 +1,1 @@
-Testlink usado na versão atual
+Testlink usado na versão atual.

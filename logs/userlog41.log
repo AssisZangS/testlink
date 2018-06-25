@@ -1,0 +1,1286 @@
+	[18/Jun/21 13:14:14][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Login for '3074' from '192.168.6.158' succeeded
+[<<][5b2ba4a6a89d8869932262][DEFAULT][/login.php][18/Jun/21 13:14:14][18/Jun/21 13:14:14][took 0.032389 secs]
+[<<][5b2ba4a6bf55e819757147][DEFAULT][/index.php][18/Jun/21 13:14:14][18/Jun/21 13:14:14][took 0.107172 secs]
+[>>][5b2ba4a6d9a46648559580][DEFAULT][/index.php][18/Jun/21 13:14:14]
+[<<][5b2ba4a6d9a46648559580][DEFAULT][/index.php][18/Jun/21 13:14:14][18/Jun/21 13:14:14][took 0.0059469999999999 secs]
+[<<][5b2ba4a6e5258622728528][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:14][18/Jun/21 13:14:15][took 0.081717 secs]
+[>>][5b2ba4a7050df553455211][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:15]
+[<<][5b2ba4a7050df553455211][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:15][18/Jun/21 13:14:15][took 0.004862 secs]
+[>>][5b2ba4a70655e815870971][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:15]
+[<<][5b2ba4a70655e815870971][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:15][18/Jun/21 13:14:15][took 0.048818 secs]
+[<<][5b2ba4a6e5af4175539450][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:14][18/Jun/21 13:14:15][took 0.161189 secs]
+[>>][5b2ba4a718fd9372108206][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:15]
+[<<][5b2ba4a718fd9372108206][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:15][18/Jun/21 13:14:15][took 0.004734 secs]
+[>>][5b2ba4a71a43a764222907][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:15]
+	[18/Jun/21 13:14:15][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'system_config' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:15][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'href_req_monitor_overview' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4a71a43a764222907][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:15][18/Jun/21 13:14:15][took 0.180585 secs]
+[<<][5b2ba4b32a532734348630][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.147943 secs]
+[>>][5b2ba4b34e986774947782][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:27]
+[<<][5b2ba4b34e986774947782][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.004812 secs]
+[>>][5b2ba4b34fe91278025798][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:27]
+[<<][5b2ba4b34fe91278025798][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.023571 secs]
+[<<][5b2ba4b368ed2453788057][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.083497 secs]
+[>>][5b2ba4b37d697465544192][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:27]
+[<<][5b2ba4b37d697465544192][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.005061 secs]
+[>>][5b2ba4b37ec3c747017366][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:27]
+	[18/Jun/21 13:14:27][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'without_keywords' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'not_linked' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_draft' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_readyForReview' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_reviewInProgress' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_rework' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_obsolete' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_future' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'testCaseStatus_final' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'hint_list_of_bugs' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'bugs_on_context' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_export_testplan_tree_for_results' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'tester_works_with_settings' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_bulk_remove' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_bulk_copy' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4b37ec3c747017366][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.210548 secs]
+[<<][5b2ba4b36acf7442402265][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.344682 secs]
+[>>][5b2ba4b3bf185150171609][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:27]
+[<<][5b2ba4b3bf185150171609][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.0073479999999999 secs]
+[>>][5b2ba4b3c10db814532319][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:27]
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_testcases_table_view' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_spec' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_spec_new_window' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_spec_word' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_suite_spec_word' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_suite_spec' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_gen_test_suite_spec_new_window' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_create_from_issue_xml' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'attachment_title' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_to_get_attachment' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'display_inline' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'display_ea_string' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:14:27][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'display_inline_string' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4b3c10db814532319][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:27][18/Jun/21 13:14:27][took 0.179908 secs]
+[<<][5b2ba4b3f2163749493198][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:27][18/Jun/21 13:14:28][took 0.14154 secs]
+[>>][5b2ba4b420a72772984405][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:28]
+[<<][5b2ba4b420a72772984405][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:28][18/Jun/21 13:14:28][took 0.00691 secs]
+[>>][5b2ba4b4227c1149036117][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:28]
+[<<][5b2ba4b4227c1149036117][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:28][18/Jun/21 13:14:28][took 0.074447 secs]
+[<<][5b2ba4b5e9d2d545060722][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:29][18/Jun/21 13:14:30][took 0.127727 secs]
+[>>][5b2ba4b614fcf057581467][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:30]
+[<<][5b2ba4b614fcf057581467][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:30][18/Jun/21 13:14:30][took 0.004455 secs]
+[>>][5b2ba4b61629d229832759][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:30]
+[<<][5b2ba4b61629d229832759][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:30][18/Jun/21 13:14:30][took 0.041988 secs]
+[<<][5b2ba4bca2921962579910][DEFAULT][/index.php][18/Jun/21 13:14:36][18/Jun/21 13:14:36][took 0.153126 secs]
+[>>][5b2ba4bcc814a552923734][DEFAULT][/index.php][18/Jun/21 13:14:36]
+[<<][5b2ba4bcc814a552923734][DEFAULT][/index.php][18/Jun/21 13:14:36][18/Jun/21 13:14:36][took 0.004818 secs]
+[<<][5b2ba4bcdb3dc480338508][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:36][18/Jun/21 13:14:36][took 0.076256 secs]
+[>>][5b2ba4bcedf6c669030480][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:36]
+[<<][5b2ba4bcedf6c669030480][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:36][18/Jun/21 13:14:36][took 0.0059360000000001 secs]
+[>>][5b2ba4bcef864322375531][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:36]
+[<<][5b2ba4bcef864322375531][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:14:36][18/Jun/21 13:14:37][took 0.061292 secs]
+[<<][5b2ba4bcdc431772953743][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:36][18/Jun/21 13:14:37][took 0.190027 secs]
+[>>][5b2ba4bd16a1e234128035][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:37]
+[<<][5b2ba4bd16a1e234128035][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:37][18/Jun/21 13:14:37][took 0.006539 secs]
+[>>][5b2ba4bd185e1433414824][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:37]
+[<<][5b2ba4bd185e1433414824][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:14:37][18/Jun/21 13:14:37][took 0.107925 secs]
+[<<][5b2ba4bf4426a828436964][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.121337 secs]
+[>>][5b2ba4bf61eac499932299][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:39]
+[<<][5b2ba4bf61eac499932299][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.006471 secs]
+[>>][5b2ba4bf63a36562522103][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:39]
+[<<][5b2ba4bf63a36562522103][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.035077 secs]
+[<<][5b2ba4bf81768656670332][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.120782 secs]
+[>>][5b2ba4bf9f14d222003792][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:39]
+[<<][5b2ba4bf9f14d222003792][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.006466 secs]
+[>>][5b2ba4bfa0d1e886205060][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:39]
+	[18/Jun/21 13:14:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba4bfa0d1e886205060][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.196247 secs]
+[<<][5b2ba4bf82955492047738][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.371613 secs]
+[>>][5b2ba4bfdd70e283779489][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:39]
+[<<][5b2ba4bfdd70e283779489][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:39][18/Jun/21 13:14:39][took 0.006993 secs]
+[>>][5b2ba4bfdf4d8334502463][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:39]
+[<<][5b2ba4bfdf4d8334502463][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:14:39][18/Jun/21 13:14:40][took 0.112971 secs]
+[<<][5b2ba4c006437616486197][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:40][18/Jun/21 13:14:40][took 0.121047 secs]
+[>>][5b2ba4c023f97518639504][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:40]
+[<<][5b2ba4c023f97518639504][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:40][18/Jun/21 13:14:40][took 0.006725 secs]
+[>>][5b2ba4c025c36931394850][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:40]
+[<<][5b2ba4c025c36931394850][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:40][18/Jun/21 13:14:40][took 0.068296 secs]
+[<<][5b2ba4c38119d413097489][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:43][18/Jun/21 13:14:43][took 0.08009 secs]
+[>>][5b2ba4c394c1c422894696][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:43]
+[<<][5b2ba4c394c1c422894696][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:43][18/Jun/21 13:14:43][took 0.004698 secs]
+[>>][5b2ba4c396003490036667][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:43]
+[<<][5b2ba4c396003490036667][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:43][18/Jun/21 13:14:43][took 0.046455 secs]
+[<<][5b2ba4c59e155953225393][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:45][18/Jun/21 13:14:45][took 0.121075 secs]
+[>>][5b2ba4c5bbc84486670376][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:45]
+[<<][5b2ba4c5bbc84486670376][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:45][18/Jun/21 13:14:45][took 0.006525 secs]
+[>>][5b2ba4c5bd875144928816][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:45]
+[<<][5b2ba4c5bd875144928816][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:45][18/Jun/21 13:14:45][took 0.063693 secs]
+[<<][5b2ba4cdb6e64251602830][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:53][18/Jun/21 13:14:53][took 0.121912 secs]
+[>>][5b2ba4cdd4cea178720494][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:53]
+[<<][5b2ba4cdd4cea178720494][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:53][18/Jun/21 13:14:53][took 0.006852 secs]
+[>>][5b2ba4cdd6a07634730611][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:53]
+[<<][5b2ba4cdd6a07634730611][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:14:53][18/Jun/21 13:14:53][took 0.063824 secs]
+[<<][5b2ba4dde3806563737775][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:09][18/Jun/21 13:15:10][took 0.072885 secs]
+[>>][5b2ba4de0142f097164635][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:10]
+[<<][5b2ba4de0142f097164635][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:10][18/Jun/21 13:15:10][took 0.004583 secs]
+[>>][5b2ba4de02823945874829][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:10]
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'unable_to_render_ghost' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'parent_of' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'child_of' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'blocks' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'depends' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'goto_execute' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'hint_new_sibling' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_new_sibling' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'hint_new_version' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_bulk' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'show_ghost_string' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'display_author_updater' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'onchange_save' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'estimated_execution_duration' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'estimated_execution_duration_short' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'link_unlink_requirements' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'clear_all_status' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'latest_exec_notes' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'exec_result' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'clear_all_notes' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'step_exec_notes' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'img_title_remove_keyword' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'current_testcase' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'remove_kw_msgbox_msg' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'remove_kw_msgbox_title' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'relation_set_on' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'tcase_relation_hint' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:15:10][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'tcase_relation_help' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4de02823945874829][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:10][18/Jun/21 13:15:10][took 0.346168 secs]
+[<<][5b2ba4e88386d033525190][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:20][18/Jun/21 13:15:20][took 0.1296 secs]
+[>>][5b2ba4e8a34ef894336653][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:20]
+[<<][5b2ba4e8a34ef894336653][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:20][18/Jun/21 13:15:20][took 0.0065609999999999 secs]
+[>>][5b2ba4e8a50ac318549079][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:20]
+	[18/Jun/21 13:15:20][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'display_only_active_test_plans' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4e8a50ac318549079][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:20][18/Jun/21 13:15:20][took 0.177397 secs]
+[<<][5b2ba4f1ecb39341486237][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:29][18/Jun/21 13:15:30][took 0.122302 secs]
+[>>][5b2ba4f21694b168450776][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:30]
+[<<][5b2ba4f21694b168450776][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:30][18/Jun/21 13:15:30][took 0.007564 secs]
+[>>][5b2ba4f21892a496672023][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:30]
+[<<][5b2ba4f21892a496672023][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:30][18/Jun/21 13:15:30][took 0.152009 secs]
+[<<][5b2ba4f535030600486856][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:33][18/Jun/21 13:15:33][took 0.117555 secs]
+[>>][5b2ba4f551d74384976256][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:33]
+[<<][5b2ba4f551d74384976256][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:33][18/Jun/21 13:15:33][took 0.004288 secs]
+[>>][5b2ba4f552f94714362715][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:33]
+[<<][5b2ba4f552f94714362715][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:33][18/Jun/21 13:15:33][took 0.079727 secs]
+[<<][5b2ba4f579a23361746755][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:15:33][18/Jun/21 13:15:33][took 0.090029 secs]
+[>>][5b2ba4f58fb7a605910998][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:15:33]
+[<<][5b2ba4f58fb7a605910998][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:15:33][18/Jun/21 13:15:33][took 0.005556 secs]
+[>>][5b2ba4f5912c3382364460][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:15:33]
+	[18/Jun/21 13:15:33][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba4f5912c3382364460][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:15:33][18/Jun/21 13:15:34][took 0.643645 secs]
+[<<][5b2ba4f57d231747121889][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:33][18/Jun/21 13:15:34][took 0.815028 secs]
+[>>][5b2ba4f65024f818208400][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34]
+[<<][5b2ba4f65024f818208400][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34][18/Jun/21 13:15:34][took 0.007304 secs]
+[>>][5b2ba4f652160682480113][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34]
+	[18/Jun/21 13:15:34][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'execution_context' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba4f652160682480113][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34][18/Jun/21 13:15:34][took 0.164115 secs]
+[<<][5b2ba4f680562527288558][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34][18/Jun/21 13:15:34][took 0.142512 secs]
+[>>][5b2ba4f6a3443067893707][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34]
+[<<][5b2ba4f6a3443067893707][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34][18/Jun/21 13:15:34][took 0.006493 secs]
+[>>][5b2ba4f6a4fca741244395][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34]
+[<<][5b2ba4f6a4fca741244395][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:15:34][18/Jun/21 13:15:34][took 0.150101 secs]
+[<<][5b2ba4fb34f1a711279976][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.12993 secs]
+[>>][5b2ba4fb54cc2971751440][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:39]
+[<<][5b2ba4fb54cc2971751440][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.004154 secs]
+[>>][5b2ba4fb55e35792181523][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:39]
+[<<][5b2ba4fb55e35792181523][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.020782 secs]
+[<<][5b2ba4fb6c9bd728868011][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.100858 secs]
+[>>][5b2ba4fb85575458946035][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:39]
+[<<][5b2ba4fb85575458946035][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.0061899999999999 secs]
+[>>][5b2ba4fb86f93909227526][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:39]
+[<<][5b2ba4fb86f93909227526][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.208584 secs]
+[<<][5b2ba4fb6c37d520285127][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.37108 secs]
+[>>][5b2ba4fbc6efd778351258][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:15:39]
+[<<][5b2ba4fbc6efd778351258][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:15:39][18/Jun/21 13:15:39][took 0.006768 secs]
+[>>][5b2ba4fbc8dc5542377243][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:15:39]
+	[18/Jun/21 13:15:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba4fbc8dc5542377243][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:15:39][18/Jun/21 13:15:40][took 0.199636 secs]
+[<<][5b2ba4fc324c5929640248][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.067272 secs]
+[>>][5b2ba4fc42d09400296633][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fc42d09400296633][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.004059 secs]
+[>>][5b2ba4fc43e26712782562][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fc43e26712782562][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.056404 secs]
+[<<][5b2ba4fc6649b232491968][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.098021 secs]
+[>>][5b2ba4fc7e587417445394][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fc7e587417445394][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.0063 secs]
+[>>][5b2ba4fc8004f506083512][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fc8004f506083512][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.05492 secs]
+[<<][5b2ba4fca3ede505808234][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.098784 secs]
+[>>][5b2ba4fcbc274061333073][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fcbc274061333073][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.0064059999999999 secs]
+[>>][5b2ba4fcbddc5743774496][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40]
+[<<][5b2ba4fcbddc5743774496][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:40][took 0.063573 secs]
+[<<][5b2ba4fce6a6c968014521][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:40][18/Jun/21 13:15:41][took 0.128423 secs]
+[>>][5b2ba4fd11fa7321253591][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:41]
+[<<][5b2ba4fd11fa7321253591][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:41][18/Jun/21 13:15:41][took 0.004082 secs]
+[>>][5b2ba4fd130d6770705272][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:41]
+[<<][5b2ba4fd130d6770705272][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:15:41][18/Jun/21 13:15:41][took 0.032745 secs]
+[<<][5b2ba50b17ead986016202][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:55][18/Jun/21 13:15:55][took 0.116142 secs]
+[>>][5b2ba50b34657362516548][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:55]
+[<<][5b2ba50b34657362516548][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:55][18/Jun/21 13:15:55][took 0.004045 secs]
+[>>][5b2ba50b35753659993892][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:55]
+[<<][5b2ba50b35753659993892][DEFAULT][/lib/execute/execHistory.php][18/Jun/21 13:15:55][18/Jun/21 13:15:55][took 0.0609 secs]
+[<<][5b2ba5137b169223216844][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:03][18/Jun/21 13:16:03][took 0.139167 secs]
+[>>][5b2ba5139d388715763227][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:03]
+[<<][5b2ba5139d388715763227][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:03][18/Jun/21 13:16:03][took 0.006782 secs]
+[>>][5b2ba5139f046218142250][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:03]
+[<<][5b2ba5139f046218142250][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:03][18/Jun/21 13:16:03][took 0.204309 secs]
+[<<][5b2ba52699e06358601357][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:22][18/Jun/21 13:16:22][took 0.135381 secs]
+[>>][5b2ba526bb14f604948280][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:22]
+[<<][5b2ba526bb14f604948280][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:22][18/Jun/21 13:16:22][took 0.006897 secs]
+[>>][5b2ba526bce73489280164][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:22]
+[<<][5b2ba526bce73489280164][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:16:22][18/Jun/21 13:16:22][took 0.225811 secs]
+[<<][5b2ba53d14b04401846159][DEFAULT][/index.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.13727 secs]
+[>>][5b2ba53d36556908305907][DEFAULT][/index.php][18/Jun/21 13:16:45]
+[<<][5b2ba53d36556908305907][DEFAULT][/index.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.006365 secs]
+[<<][5b2ba53d49805777041818][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.100378 secs]
+[>>][5b2ba53d62222055354719][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:16:45]
+[<<][5b2ba53d62222055354719][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.006879 secs]
+[>>][5b2ba53d63f48143900183][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:16:45]
+[<<][5b2ba53d63f48143900183][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.070798 secs]
+[<<][5b2ba53d4af59689376567][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.22549 secs]
+[>>][5b2ba53d82204284809541][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:16:45]
+[<<][5b2ba53d82204284809541][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.0065460000000001 secs]
+[>>][5b2ba53d83df8304774372][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:16:45]
+[<<][5b2ba53d83df8304774372][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:16:45][18/Jun/21 13:16:45][took 0.106061 secs]
+[<<][5b2ba542af70d752100243][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:16:50][18/Jun/21 13:16:50][took 0.123883 secs]
+[>>][5b2ba542cdcb4978033527][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:16:50]
+[<<][5b2ba542cdcb4978033527][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:16:50][18/Jun/21 13:16:50][took 0.005701 secs]
+[>>][5b2ba542cf43d185792470][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:16:50]
+[<<][5b2ba542cf43d185792470][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:16:50][18/Jun/21 13:16:50][took 0.127302 secs]
+[<<][5b2ba54310b91919563290][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.135037 secs]
+[>>][5b2ba54331cd8298506316][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:51]
+[<<][5b2ba54331cd8298506316][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.004123 secs]
+[>>][5b2ba54332e42509474786][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:51]
+[<<][5b2ba54332e42509474786][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.079172 secs]
+[<<][5b2ba54312e7f243279582][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.252176 secs]
+[>>][5b2ba543509a5816818184][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:16:51]
+[<<][5b2ba543509a5816818184][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.004721 secs]
+[>>][5b2ba54351dfe053912257][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:16:51]
+	[18/Jun/21 13:16:51][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba54351dfe053912257][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:16:51][18/Jun/21 13:16:51][took 0.622333 secs]
+[<<][5b2ba5443c612920224643][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:52][18/Jun/21 13:16:52][took 0.134267 secs]
+[>>][5b2ba5445d4b5754590966][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:52]
+[<<][5b2ba5445d4b5754590966][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:52][18/Jun/21 13:16:52][took 0.007013 secs]
+[>>][5b2ba5445f28b628526877][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:52]
+[<<][5b2ba5445f28b628526877][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:16:52][18/Jun/21 13:16:52][took 0.149001 secs]
+[<<][5b2ba5514a60d163505934][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:17:05][18/Jun/21 13:17:05][took 0.142565 secs]
+[>>][5b2ba5516d535073941130][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:17:05]
+[<<][5b2ba5516d535073941130][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:17:05][18/Jun/21 13:17:05][took 0.006596 secs]
+[>>][5b2ba5516f078797595901][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:17:05]
+	[18/Jun/21 13:17:05][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba5516f078797595901][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:17:05][18/Jun/21 13:17:05][took 0.536841 secs]
+[<<][5b2ba5523e2fb563514979][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:17:06][18/Jun/21 13:17:06][took 0.142738 secs]
+[>>][5b2ba552612d5666247825][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:17:06]
+[<<][5b2ba552612d5666247825][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:17:06][18/Jun/21 13:17:06][took 0.006697 secs]
+[>>][5b2ba55262f52427828276][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:17:06]
+[<<][5b2ba55262f52427828276][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:17:06][18/Jun/21 13:17:06][took 0.140568 secs]
+[<<][5b2ba569706a3051732396][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:17:29][18/Jun/21 13:17:29][took 0.127842 secs]
+[>>][5b2ba5698fbe6453781917][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:17:29]
+[<<][5b2ba5698fbe6453781917][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:17:29][18/Jun/21 13:17:29][took 0.0048480000000001 secs]
+[>>][5b2ba569910b3568488681][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:17:29]
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_passed' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_failed' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_blocked' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_passed_next' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_failed_next' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'click_blocked_next' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'issue_on_step' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_next' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'add_link_to_tlexec' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_save_and_exit' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'bug_copy_from_latest_exec' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'btn_next_tcase' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'access_test_steps_exec' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'assign_exec_task_to_me' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'bug_summary' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'bug_description' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'execution_duration' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'execution_duration_short' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'issueType' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'issuePriority' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'artifactVersion' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'artifactComponent' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'add_issue_note' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'bug_add_note' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'create_issue_feedback' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:17:29][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:17:29][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:17:29][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'relation_type_extended' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba569910b3568488681][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:17:29][18/Jun/21 13:17:29][took 0.291586 secs]
+[<<][5b2ba58a3fe12282871680][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:18:02][18/Jun/21 13:18:02][took 0.148589 secs]
+[>>][5b2ba58a64503847518453][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:18:02]
+[<<][5b2ba58a64503847518453][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:18:02][18/Jun/21 13:18:02][took 0.007175 secs]
+[>>][5b2ba58a66344399701906][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:18:02]
+[<<][5b2ba58a66344399701906][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:18:02][18/Jun/21 13:18:02][took 0.264127 secs]
+[<<][5b2ba59cdcec2212317008][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:18:20][18/Jun/21 13:18:21][took 0.132457 secs]
+[>>][5b2ba59d0946b303134466][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:18:21]
+[<<][5b2ba59d0946b303134466][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:18:21][18/Jun/21 13:18:21][took 0.006875 secs]
+[>>][5b2ba59d0b198482654565][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:18:21]
+[<<][5b2ba59d0b198482654565][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:18:21][18/Jun/21 13:18:21][took 0.046 secs]
+[<<][5b2ba6366eef1081949292][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:20:54][18/Jun/21 13:20:54][took 0.130754 secs]
+[>>][5b2ba6368f010239755676][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:20:54]
+[<<][5b2ba6368f010239755676][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:20:54][18/Jun/21 13:20:54][took 0.007045 secs]
+[>>][5b2ba63690d26895433454][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:20:54]
+	[18/Jun/21 13:20:54][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados.docx' was created
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:20:54][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba63690d26895433454][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:20:54][18/Jun/21 13:20:54][took 0.098146 secs]
+[<<][5b2ba63c32922932214781][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:00][18/Jun/21 13:21:00][took 0.076734 secs]
+[>>][5b2ba63c456df973499684][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:00]
+[<<][5b2ba63c456df973499684][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:00][18/Jun/21 13:21:00][took 0.004326 secs]
+[>>][5b2ba63c46914888075717][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:00]
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:00][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba63c46914888075717][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:00][18/Jun/21 13:21:00][took 0.125214 secs]
+[<<][5b2ba640385fc373131460][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:04][18/Jun/21 13:21:04][took 0.129831 secs]
+[>>][5b2ba64058343494289477][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:04]
+[<<][5b2ba64058343494289477][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:04][18/Jun/21 13:21:04][took 0.004571 secs]
+[>>][5b2ba6405969d932118237][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:04]
+[<<][5b2ba6405969d932118237][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:04][18/Jun/21 13:21:04][took 0.177363 secs]
+[<<][5b2ba64f46c8b863039745][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:19][18/Jun/21 13:21:19][took 0.143915 secs]
+[>>][5b2ba64f6a159100376930][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:19]
+[<<][5b2ba64f6a159100376930][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:19][18/Jun/21 13:21:19][took 0.007217 secs]
+[>>][5b2ba64f6bfe7152877473][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:19]
+	[18/Jun/21 13:21:19][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:21:19][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba64f6bfe7152877473][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:19][18/Jun/21 13:21:19][took 0.211084 secs]
+[<<][5b2ba65e0cf3c959302016][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:34][18/Jun/21 13:21:34][took 0.133862 secs]
+[>>][5b2ba65e2dd03045863118][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:34]
+[<<][5b2ba65e2dd03045863118][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:34][18/Jun/21 13:21:34][took 0.007186 secs]
+[>>][5b2ba65e2fb53307309180][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:34]
+[<<][5b2ba65e2fb53307309180][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:34][18/Jun/21 13:21:34][took 0.22016 secs]
+[<<][5b2ba661b6bc0772031549][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:37][18/Jun/21 13:21:37][took 0.114232 secs]
+[>>][5b2ba661d2bbe298783285][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:37]
+[<<][5b2ba661d2bbe298783285][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:37][18/Jun/21 13:21:37][took 0.004718 secs]
+[>>][5b2ba661d3fe7656664245][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:37]
+[<<][5b2ba661d3fe7656664245][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:37][18/Jun/21 13:21:37][took 0.033144 secs]
+[<<][5b2ba66563756201418413][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:41][18/Jun/21 13:21:41][took 0.132841 secs]
+[>>][5b2ba66584074134278419][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:41]
+[<<][5b2ba66584074134278419][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:41][18/Jun/21 13:21:41][took 0.006822 secs]
+[>>][5b2ba66585db1720313158][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:41]
+	[18/Jun/21 13:21:41][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados.docx' was created
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:21:41][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba66585db1720313158][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:21:41][18/Jun/21 13:21:41][took 0.087977 secs]
+[<<][5b2ba666e837c149214638][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:42][18/Jun/21 13:21:43][took 0.132671 secs]
+[>>][5b2ba66714a3d468119741][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:43]
+[<<][5b2ba66714a3d468119741][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:43][18/Jun/21 13:21:43][took 0.007076 secs]
+[>>][5b2ba66716a20716673854][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:43]
+[<<][5b2ba66716a20716673854][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:43][18/Jun/21 13:21:43][took 0.203942 secs]
+[<<][5b2ba66c23297038231390][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:48][18/Jun/21 13:21:48][took 0.132324 secs]
+[>>][5b2ba66c43a51091199947][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:48]
+[<<][5b2ba66c43a51091199947][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:48][18/Jun/21 13:21:48][took 0.006736 secs]
+[>>][5b2ba66c45700621145958][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:48]
+[<<][5b2ba66c45700621145958][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:48][18/Jun/21 13:21:48][took 0.244938 secs]
+[<<][5b2ba66f4b93c562657227][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:51][18/Jun/21 13:21:51][took 0.13858 secs]
+[>>][5b2ba66f6d8ee051410260][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:51]
+[<<][5b2ba66f6d8ee051410260][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:51][18/Jun/21 13:21:51][took 0.006826 secs]
+[>>][5b2ba66f6f682965243469][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:51]
+[<<][5b2ba66f6f682965243469][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:51][18/Jun/21 13:21:51][took 0.232456 secs]
+[<<][5b2ba670c37c7623020528][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:52][18/Jun/21 13:21:52][took 0.132364 secs]
+[>>][5b2ba670e3f2a367665848][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:52]
+[<<][5b2ba670e3f2a367665848][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:52][18/Jun/21 13:21:52][took 0.0075750000000001 secs]
+[>>][5b2ba670e5ede997867203][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:52]
+[<<][5b2ba670e5ede997867203][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:21:52][18/Jun/21 13:21:53][took 0.2455 secs]
+[<<][5b2ba6ec79ce2525281298][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:23:56][18/Jun/21 13:23:56][took 0.11869 secs]
+[>>][5b2ba6ec96e66077268221][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:23:56]
+[<<][5b2ba6ec96e66077268221][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:23:56][18/Jun/21 13:23:56][took 0.004901 secs]
+[>>][5b2ba6ec982fc090395745][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:23:56]
+	[18/Jun/21 13:23:56][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:23:56][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba6ec982fc090395745][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:23:56][18/Jun/21 13:23:56][took 0.183121 secs]
+[<<][5b2ba6f98b130720850471][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:09][18/Jun/21 13:24:09][took 0.156948 secs]
+[>>][5b2ba6f9b1871654021624][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:09]
+[<<][5b2ba6f9b1871654021624][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:09][18/Jun/21 13:24:09][took 0.004497 secs]
+[>>][5b2ba6f9b2b8b763093504][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:09]
+	[18/Jun/21 13:24:09][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:24:09][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba6f9b2b8b763093504][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:09][18/Jun/21 13:24:09][took 0.180729 secs]
+[<<][5b2ba6fb2762d242441501][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:11][took 0.134804 secs]
+[>>][5b2ba6fb487b9109384924][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11]
+[<<][5b2ba6fb487b9109384924][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:11][took 0.006775 secs]
+[>>][5b2ba6fb4a4b1402375911][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11]
+	[18/Jun/21 13:24:11][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:24:11][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba6fb4a4b1402375911][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:11][took 0.244008 secs]
+[<<][5b2ba6fbab63d568349147][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:11][took 0.137313 secs]
+[>>][5b2ba6fbcd126787759258][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11]
+[<<][5b2ba6fbcd126787759258][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:11][took 0.006733 secs]
+[>>][5b2ba6fbcedc7168955088][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11]
+	[18/Jun/21 13:24:12][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:24:12][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba6fbcedc7168955088][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:11][18/Jun/21 13:24:12][took 0.209653 secs]
+[<<][5b2ba7039fce7492817747][DEFAULT][/index.php][18/Jun/21 13:24:19][18/Jun/21 13:24:19][took 0.157497 secs]
+[>>][5b2ba703c665c905612956][DEFAULT][/index.php][18/Jun/21 13:24:19]
+[<<][5b2ba703c665c905612956][DEFAULT][/index.php][18/Jun/21 13:24:19][18/Jun/21 13:24:19][took 0.007524 secs]
+[<<][5b2ba703dd7e2849622781][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:24:19][18/Jun/21 13:24:20][took 0.123083 secs]
+[>>][5b2ba70407886839643547][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:24:20]
+[<<][5b2ba70407886839643547][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:24:20][18/Jun/21 13:24:20][took 0.006933 secs]
+[>>][5b2ba704095ed496156326][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:24:20]
+[<<][5b2ba704095ed496156326][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:24:20][18/Jun/21 13:24:20][took 0.076259 secs]
+[<<][5b2ba703e1085316513943][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:24:19][18/Jun/21 13:24:20][took 0.247662 secs]
+[>>][5b2ba7042983e015793540][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:24:20]
+[<<][5b2ba7042983e015793540][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:24:20][18/Jun/21 13:24:20][took 0.007509 secs]
+[>>][5b2ba7042b892860946250][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:24:20]
+[<<][5b2ba7042b892860946250][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:24:20][18/Jun/21 13:24:20][took 0.093335 secs]
+[<<][5b2ba705c7204416356809][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:24:21][18/Jun/21 13:24:21][took 0.134173 secs]
+[>>][5b2ba705e806d677717755][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:24:21]
+[<<][5b2ba705e806d677717755][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:24:21][18/Jun/21 13:24:21][took 0.007089 secs]
+[>>][5b2ba705e9e53758675256][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:24:21]
+[<<][5b2ba705e9e53758675256][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:24:21][18/Jun/21 13:24:22][took 0.143252 secs]
+[<<][5b2ba70631154274628566][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:24:22][18/Jun/21 13:24:22][took 0.133001 secs]
+[>>][5b2ba70651b1a758787492][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:24:22]
+[<<][5b2ba70651b1a758787492][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:24:22][18/Jun/21 13:24:22][took 0.007017 secs]
+[>>][5b2ba706538ed409967903][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:24:22]
+	[18/Jun/21 13:24:22][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba706538ed409967903][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:24:22][18/Jun/21 13:24:22][took 0.530311 secs]
+[<<][5b2ba70631db4147566890][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:22][18/Jun/21 13:24:22][took 0.746975 secs]
+[>>][5b2ba706e85cc467821694][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:22]
+[<<][5b2ba706e85cc467821694][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:22][18/Jun/21 13:24:22][took 0.006464 secs]
+[>>][5b2ba706ea0f5827975984][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:22]
+[<<][5b2ba706ea0f5827975984][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:22][18/Jun/21 13:24:23][took 0.144598 secs]
+[<<][5b2ba7071d1d8917981104][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:23][18/Jun/21 13:24:23][took 0.073156 secs]
+[>>][5b2ba7072f11b296091811][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:23]
+[<<][5b2ba7072f11b296091811][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:23][18/Jun/21 13:24:23][took 0.003799 secs]
+[>>][5b2ba70730121914434890][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:23]
+[<<][5b2ba70730121914434890][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:24:23][18/Jun/21 13:24:23][took 0.099402 secs]
+[<<][5b2ba720f013a059253626][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:48][18/Jun/21 13:24:49][took 0.13051 secs]
+[>>][5b2ba7211bf0d521802823][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:49]
+[<<][5b2ba7211bf0d521802823][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:49][18/Jun/21 13:24:49][took 0.004881 secs]
+[>>][5b2ba7211d360348993716][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:49]
+	[18/Jun/21 13:24:49][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:24:49][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba7211d360348993716][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:24:49][18/Jun/21 13:24:49][took 0.143472 secs]
+[<<][5b2ba72d33001363370935][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:01][18/Jun/21 13:25:01][took 0.148624 secs]
+[>>][5b2ba72d57773265878996][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:01]
+[<<][5b2ba72d57773265878996][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:01][18/Jun/21 13:25:01][took 0.006857 secs]
+[>>][5b2ba72d59472508892621][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:01]
+[<<][5b2ba72d59472508892621][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:01][18/Jun/21 13:25:01][took 0.259625 secs]
+[<<][5b2ba72edd45f868552336][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:02][18/Jun/21 13:25:03][took 0.123076 secs]
+[>>][5b2ba72f07514391317998][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:03]
+[<<][5b2ba72f07514391317998][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:03][18/Jun/21 13:25:03][took 0.006644 secs]
+[>>][5b2ba72f09169364140180][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:03]
+[<<][5b2ba72f09169364140180][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:03][18/Jun/21 13:25:03][took 0.042809 secs]
+[<<][5b2ba73c97393661631203][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:16][18/Jun/21 13:25:16][took 0.068286 secs]
+[>>][5b2ba73ca7fdf309521868][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:16]
+[<<][5b2ba73ca7fdf309521868][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:16][18/Jun/21 13:25:16][took 0.0042139999999999 secs]
+[>>][5b2ba73ca91ae172317291][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:16]
+	[18/Jun/21 13:25:16][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados1.docx' was created
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:16][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba73ca91ae172317291][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:16][18/Jun/21 13:25:16][took 0.085121 secs]
+[<<][5b2ba73db2819877757710][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:17][18/Jun/21 13:25:17][took 0.073957 secs]
+[>>][5b2ba73dc4acd183962132][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:17]
+[<<][5b2ba73dc4acd183962132][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:17][18/Jun/21 13:25:17][took 0.0041099999999999 secs]
+[>>][5b2ba73dc5c38647052254][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:17]
+[<<][5b2ba73dc5c38647052254][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:17][18/Jun/21 13:25:17][took 0.18844 secs]
+[<<][5b2ba74021286053463596][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:20][18/Jun/21 13:25:20][took 0.116192 secs]
+[>>][5b2ba7403da5e950409880][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:20]
+[<<][5b2ba7403da5e950409880][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:20][18/Jun/21 13:25:20][took 0.00396 secs]
+[>>][5b2ba7403eb2a483993464][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:20]
+	[18/Jun/21 13:25:20][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:25:20][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba7403eb2a483993464][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:20][18/Jun/21 13:25:20][took 0.138218 secs]
+[<<][5b2ba74b4d71a044323720][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:31][18/Jun/21 13:25:31][took 0.096575 secs]
+[>>][5b2ba74b65284143079631][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:31]
+[<<][5b2ba74b65284143079631][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:31][18/Jun/21 13:25:31][took 0.004301 secs]
+[>>][5b2ba74b664bc303841697][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:31]
+[<<][5b2ba74b664bc303841697][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:31][18/Jun/21 13:25:31][took 0.148904 secs]
+[<<][5b2ba74fd5e1f616575280][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:35][18/Jun/21 13:25:35][took 0.114818 secs]
+[>>][5b2ba74ff20b0183143656][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:35]
+[<<][5b2ba74ff20b0183143656][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:35][18/Jun/21 13:25:35][took 0.0056189999999999 secs]
+[>>][5b2ba74ff38c1236512915][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:35]
+[<<][5b2ba74ff38c1236512915][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:35][18/Jun/21 13:25:36][took 0.031522 secs]
+[<<][5b2ba7534f8da389280137][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:39][18/Jun/21 13:25:39][took 0.12263 secs]
+[>>][5b2ba7536da40211502879][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:39]
+[<<][5b2ba7536da40211502879][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:39][18/Jun/21 13:25:39][took 0.007469 secs]
+[>>][5b2ba7536f9f9119716225][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:39]
+	[18/Jun/21 13:25:39][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados1.docx' was created
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:39][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba7536f9f9119716225][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:39][18/Jun/21 13:25:39][took 0.096425 secs]
+[<<][5b2ba754a2838289864644][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:40][18/Jun/21 13:25:40][took 0.134015 secs]
+[>>][5b2ba754c365d551951655][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:40]
+[<<][5b2ba754c365d551951655][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:40][18/Jun/21 13:25:40][took 0.006571 secs]
+[>>][5b2ba754c525b474918894][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:40]
+[<<][5b2ba754c525b474918894][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:40][18/Jun/21 13:25:41][took 0.28343 secs]
+[<<][5b2ba75851502535508787][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:44][18/Jun/21 13:25:44][took 0.140705 secs]
+[>>][5b2ba75873d81422933833][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:44]
+[<<][5b2ba75873d81422933833][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:44][18/Jun/21 13:25:44][took 0.007168 secs]
+[>>][5b2ba75875beb249314758][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:44]
+	[18/Jun/21 13:25:44][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:25:44][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba75875beb249314758][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:44][18/Jun/21 13:25:44][took 0.314048 secs]
+[<<][5b2ba761b0fe9460455061][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:53][18/Jun/21 13:25:53][took 0.151658 secs]
+[>>][5b2ba761d6350282008979][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:53]
+[<<][5b2ba761d6350282008979][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:53][18/Jun/21 13:25:53][took 0.006965 secs]
+[>>][5b2ba761d80ba396364767][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:53]
+[<<][5b2ba761d80ba396364767][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:25:53][18/Jun/21 13:25:54][took 0.273768 secs]
+[<<][5b2ba7644d548170158871][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:56][18/Jun/21 13:25:56][took 0.124419 secs]
+[>>][5b2ba7646bdc5664441418][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:56]
+[<<][5b2ba7646bdc5664441418][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:56][18/Jun/21 13:25:56][took 0.00732 secs]
+[>>][5b2ba7646dced554367399][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:56]
+[<<][5b2ba7646dced554367399][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:56][18/Jun/21 13:25:56][took 0.044023 secs]
+[<<][5b2ba7673919b502485215][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:59][18/Jun/21 13:25:59][took 0.128021 secs]
+[>>][5b2ba7675879b393216326][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:59]
+[<<][5b2ba7675879b393216326][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:59][18/Jun/21 13:25:59][took 0.00423 secs]
+[>>][5b2ba7675998a918096245][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:59]
+	[18/Jun/21 13:25:59][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados1.docx' was created
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:25:59][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba7675998a918096245][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:25:59][18/Jun/21 13:25:59][took 0.07105 secs]
+[<<][5b2ba769221e1741026960][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:26:01][18/Jun/21 13:26:01][took 0.11687 secs]
+[>>][5b2ba7693ed1f372361476][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:26:01]
+[<<][5b2ba7693ed1f372361476][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:26:01][18/Jun/21 13:26:01][took 0.006428 secs]
+[>>][5b2ba769407db092214725][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:26:01]
+[<<][5b2ba769407db092214725][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:26:01][18/Jun/21 13:26:01][took 0.162822 secs]
+[<<][5b2ba76f04851583177694][DEFAULT][/index.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.12502 secs]
+[>>][5b2ba76f232d6369839399][DEFAULT][/index.php][18/Jun/21 13:26:07]
+[<<][5b2ba76f232d6369839399][DEFAULT][/index.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.004623 secs]
+[<<][5b2ba76f38f33478655779][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.121986 secs]
+[>>][5b2ba76f56de3227655068][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:07]
+[<<][5b2ba76f56de3227655068][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.00472 secs]
+[>>][5b2ba76f5822d625667285][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:07]
+[<<][5b2ba76f5822d625667285][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.045267 secs]
+[<<][5b2ba76f39fdb052564197][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.195694 secs]
+[>>][5b2ba76f69de5762590679][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:07]
+[<<][5b2ba76f69de5762590679][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.003949 secs]
+[>>][5b2ba76f6ae93607357558][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:07]
+[<<][5b2ba76f6ae93607357558][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:07][18/Jun/21 13:26:07][took 0.073233 secs]
+[<<][5b2ba77089646625247419][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:08][18/Jun/21 13:26:08][took 0.122454 secs]
+[>>][5b2ba770a7711779492449][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:08]
+[<<][5b2ba770a7711779492449][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:08][18/Jun/21 13:26:08][took 0.006784 secs]
+[>>][5b2ba770a93ad798419712][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:08]
+[<<][5b2ba770a93ad798419712][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:08][18/Jun/21 13:26:08][took 0.035113 secs]
+[<<][5b2ba770c846f901613356][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:26:08][18/Jun/21 13:26:08][took 0.12222 secs]
+[>>][5b2ba770e6401174892074][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:26:08]
+[<<][5b2ba770e6401174892074][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:26:08][18/Jun/21 13:26:08][took 0.006632 secs]
+[>>][5b2ba770e8050995325790][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:26:08]
+	[18/Jun/21 13:26:08][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba770e8050995325790][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:26:08][18/Jun/21 13:26:09][took 0.161225 secs]
+[<<][5b2ba770c8c75317254147][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:08][18/Jun/21 13:26:09][took 0.338671 secs]
+[>>][5b2ba77127774739272953][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:09]
+[<<][5b2ba77127774739272953][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.006822 secs]
+[>>][5b2ba77129468374256178][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:09]
+[<<][5b2ba77129468374256178][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.124662 secs]
+[<<][5b2ba7714c678190691118][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.121666 secs]
+[>>][5b2ba7716a3db535768186][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09]
+[<<][5b2ba7716a3db535768186][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.006921 secs]
+[>>][5b2ba7716c185128305491][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09]
+[<<][5b2ba7716c185128305491][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.093894 secs]
+[<<][5b2ba7719a9d3123504975][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.110986 secs]
+[>>][5b2ba771b5d17044781207][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09]
+[<<][5b2ba771b5d17044781207][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.0042679999999999 secs]
+[>>][5b2ba771b6f1f824994786][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09]
+[<<][5b2ba771b6f1f824994786][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.036264 secs]
+[<<][5b2ba771d9ceb824701215][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:09][18/Jun/21 13:26:09][took 0.107544 secs]
+[>>][5b2ba772000a2774232109][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10]
+[<<][5b2ba772000a2774232109][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10][18/Jun/21 13:26:10][took 0.004091 secs]
+[>>][5b2ba77201210889748493][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10]
+[<<][5b2ba77201210889748493][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10][18/Jun/21 13:26:10][took 0.038402 secs]
+[<<][5b2ba772248ba892383839][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10][18/Jun/21 13:26:10][took 0.120732 secs]
+[>>][5b2ba7724226f272973357][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10]
+[<<][5b2ba7724226f272973357][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10][18/Jun/21 13:26:10][took 0.006593 secs]
+[>>][5b2ba77243e55012123689][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10]
+[<<][5b2ba77243e55012123689][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:26:10][18/Jun/21 13:26:10][took 0.061138 secs]
+[<<][5b2ba77b03aa3429134196][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:19][18/Jun/21 13:26:19][took 0.115009 secs]
+[>>][5b2ba77b1fdc5167449192][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:19]
+[<<][5b2ba77b1fdc5167449192][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:19][18/Jun/21 13:26:19][took 0.004848 secs]
+[>>][5b2ba77b211f7507910596][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:19]
+[<<][5b2ba77b211f7507910596][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:26:19][18/Jun/21 13:26:19][took 0.188295 secs]
+[<<][5b2ba7996dea4454962848][DEFAULT][/index.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.168102 secs]
+[>>][5b2ba79997123665193503][DEFAULT][/index.php][18/Jun/21 13:26:49]
+[<<][5b2ba79997123665193503][DEFAULT][/index.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.0048050000000001 secs]
+[<<][5b2ba799a5308914734274][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.08051 secs]
+[>>][5b2ba799b8f06146511967][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:49]
+[<<][5b2ba799b8f06146511967][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.004515 secs]
+[>>][5b2ba799ba25b397207550][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:49]
+[<<][5b2ba799ba25b397207550][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.080566 secs]
+[<<][5b2ba799a4df1740274729][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.211577 secs]
+[>>][5b2ba799d8a69723626885][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:49]
+[<<][5b2ba799d8a69723626885][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.006543 secs]
+[>>][5b2ba799da615553575397][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:49]
+[<<][5b2ba799da615553575397][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:26:49][18/Jun/21 13:26:49][took 0.073809 secs]
+[<<][5b2ba7a2660d8865540897][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:58][18/Jun/21 13:26:58][took 0.124795 secs]
+[>>][5b2ba7a284ac6288295785][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:58]
+[<<][5b2ba7a284ac6288295785][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:58][18/Jun/21 13:26:58][took 0.007086 secs]
+[>>][5b2ba7a2868b6863434414][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:58]
+[<<][5b2ba7a2868b6863434414][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:26:58][18/Jun/21 13:26:58][took 0.141314 secs]
+[<<][5b2ba7a2bf12b097085941][DEFAULT][/lib/results/resultsNavigator.php][18/Jun/21 13:26:58][18/Jun/21 13:26:58][took 0.137494 secs]
+[>>][5b2ba7a2e0c83442025284][DEFAULT][/lib/results/resultsNavigator.php][18/Jun/21 13:26:58]
+[<<][5b2ba7a2e0c83442025284][DEFAULT][/lib/results/resultsNavigator.php][18/Jun/21 13:26:58][18/Jun/21 13:26:58][took 0.006687 secs]
+[>>][5b2ba7a2e28b8240322516][DEFAULT][/lib/results/resultsNavigator.php][18/Jun/21 13:26:58]
+	[18/Jun/21 13:26:59][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'link_report_test_report_on_build' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:26:59][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'link_report_test_flat' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:26:59][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'format_pseudo_msword' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba7a2e28b8240322516][DEFAULT][/lib/results/resultsNavigator.php][18/Jun/21 13:26:58][18/Jun/21 13:26:59][took 0.161821 secs]
+[<<][5b2ba7a2bfc87313248918][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:58][18/Jun/21 13:26:59][took 0.341047 secs]
+[>>][5b2ba7a31f016196384244][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59]
+[<<][5b2ba7a31f016196384244][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59][18/Jun/21 13:26:59][took 0.004979 secs]
+[>>][5b2ba7a3204e4353542538][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59]
+[<<][5b2ba7a3204e4353542538][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59][18/Jun/21 13:26:59][took 0.0213 secs]
+[<<][5b2ba7a332b2d867215454][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59][18/Jun/21 13:26:59][took 0.103187 secs]
+[>>][5b2ba7a34c044776620537][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59]
+[<<][5b2ba7a34c044776620537][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59][18/Jun/21 13:26:59][took 0.006682 secs]
+[>>][5b2ba7a34dc9a194897539][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59]
+[<<][5b2ba7a34dc9a194897539][DEFAULT][/lib/general/staticPage.php][18/Jun/21 13:26:59][18/Jun/21 13:26:59][took 0.035561 secs]
+[<<][5b2ba7a7acc1b830259430][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:03][18/Jun/21 13:27:03][took 0.155983 secs]
+[>>][5b2ba7a7d2f4b438469930][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:03]
+[<<][5b2ba7a7d2f4b438469930][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:03][18/Jun/21 13:27:03][took 0.004035 secs]
+[>>][5b2ba7a7d406a083648739][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:03]
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'test_result_matrix_filters' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'too_much_data' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'too_much_builds' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'active_builds' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'all_active_builds' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'release_date_start' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Jun/21 13:27:03][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'release_date_end' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba7a7d406a083648739][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:03][18/Jun/21 13:27:03][took 0.074274 secs]
+[<<][5b2ba7ab90337013017631][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:07][18/Jun/21 13:27:07][took 0.152323 secs]
+[>>][5b2ba7abb5842803466144][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:07]
+[<<][5b2ba7abb5842803466144][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:07][18/Jun/21 13:27:07][took 0.004136 secs]
+[>>][5b2ba7abb69ad860044131][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:07]
+	[18/Jun/21 13:27:07][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined variable: buildIDSet - in /var/www/html/testlink/lib/results/resultsTC.php - Line 569
+	[18/Jun/21 13:27:07][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+implode(): Invalid arguments passed - in /var/www/html/testlink/lib/results/resultsTC.php - Line 569
+	[18/Jun/21 13:27:08][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index:  - in /var/www/html/testlink/lib/results/displayMgr.php - Line 133
+	[18/Jun/21 13:27:08][L18N][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		string 'builds' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b2ba7abb69ad860044131][DEFAULT][/lib/results/resultsTC.php][18/Jun/21 13:27:07][18/Jun/21 13:27:08][took 0.38916 secs]
+[<<][5b2ba7c54abea864164370][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:33][18/Jun/21 13:27:33][took 0.137383 secs]
+[>>][5b2ba7c56c760246530235][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:33]
+[<<][5b2ba7c56c760246530235][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:33][18/Jun/21 13:27:33][took 0.007311 secs]
+[>>][5b2ba7c56e624898299078][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:33]
+	[18/Jun/21 13:27:33][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:27:33][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba7c56e624898299078][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:33][18/Jun/21 13:27:33][took 0.245834 secs]
+[<<][5b2ba7d2692d0965772137][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:46][18/Jun/21 13:27:46][took 0.141661 secs]
+[>>][5b2ba7d28be97326968728][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:46]
+[<<][5b2ba7d28be97326968728][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:46][18/Jun/21 13:27:46][took 0.006864 secs]
+[>>][5b2ba7d28dbd0520522034][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:46]
+	[18/Jun/21 13:27:46][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:27:46][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba7d28dbd0520522034][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:27:46][18/Jun/21 13:27:46][took 0.249913 secs]
+[<<][5b2ba80d43663034155392][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:28:45][18/Jun/21 13:28:45][took 0.125578 secs]
+[>>][5b2ba80d623a4575136941][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:28:45]
+[<<][5b2ba80d623a4575136941][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:28:45][18/Jun/21 13:28:45][took 0.004641 secs]
+[>>][5b2ba80d63729478049809][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:28:45]
+	[18/Jun/21 13:28:45][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:28:45][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba80d63729478049809][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:28:45][18/Jun/21 13:28:45][took 0.1486 secs]
+[<<][5b2ba839428b2746073760][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:29:29][18/Jun/21 13:29:29][took 0.124085 secs]
+[>>][5b2ba83960fd8361531855][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:29:29]
+[<<][5b2ba83960fd8361531855][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:29:29][18/Jun/21 13:29:29][took 0.004052 secs]
+[>>][5b2ba83962104013231964][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:29:29]
+	[18/Jun/21 13:29:29][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:29:29][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba83962104013231964][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:29:29][18/Jun/21 13:29:29][took 0.148631 secs]
+[<<][5b2ba87aeb21e750228350][DEFAULT][/index.php][18/Jun/21 13:30:34][18/Jun/21 13:30:35][took 0.162114 secs]
+[>>][5b2ba87b1eb08313705209][DEFAULT][/index.php][18/Jun/21 13:30:35]
+[<<][5b2ba87b1eb08313705209][DEFAULT][/index.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.004364 secs]
+[<<][5b2ba87b3859b778021370][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.117258 secs]
+[>>][5b2ba87b551af082128503][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:30:35]
+[<<][5b2ba87b551af082128503][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.006955 secs]
+[>>][5b2ba87b56f33975687435][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:30:35]
+[<<][5b2ba87b56f33975687435][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.074737 secs]
+[<<][5b2ba87b38d46227486931][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.248474 secs]
+[>>][5b2ba87b759e7281617088][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:30:35]
+[<<][5b2ba87b759e7281617088][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.007171 secs]
+[>>][5b2ba87b77842257961345][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:30:35]
+[<<][5b2ba87b77842257961345][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:30:35][18/Jun/21 13:30:35][took 0.115279 secs]
+[<<][5b2ba87d6cbc0488631713][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:30:37][18/Jun/21 13:30:37][took 0.124883 secs]
+[>>][5b2ba87d8b5c1767529233][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:30:37]
+[<<][5b2ba87d8b5c1767529233][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:30:37][18/Jun/21 13:30:37][took 0.006951 secs]
+[>>][5b2ba87d8d328756047743][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:30:37]
+[<<][5b2ba87d8d328756047743][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:30:37][18/Jun/21 13:30:37][took 0.133021 secs]
+[<<][5b2ba87dc40bd849579789][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:30:37][18/Jun/21 13:30:37][took 0.135786 secs]
+[>>][5b2ba87de55ab889830867][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:30:37]
+[<<][5b2ba87de55ab889830867][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:30:37][18/Jun/21 13:30:37][took 0.0065499999999999 secs]
+[>>][5b2ba87de7193568364293][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:30:37]
+	[18/Jun/21 13:30:37][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba87de7193568364293][DEFAULT][/lib/execute/execNavigator.php][18/Jun/21 13:30:37][18/Jun/21 13:30:38][took 0.690852 secs]
+[<<][5b2ba87dc585b485256687][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:37][18/Jun/21 13:30:38][took 0.908349 secs]
+[>>][5b2ba87eaf49c030989240][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38]
+[<<][5b2ba87eaf49c030989240][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38][18/Jun/21 13:30:38][took 0.00674 secs]
+[>>][5b2ba87eb115c698347371][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38]
+[<<][5b2ba87eb115c698347371][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38][18/Jun/21 13:30:38][took 0.147975 secs]
+[<<][5b2ba87eda91d892389228][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38][18/Jun/21 13:30:38][took 0.075576 secs]
+[>>][5b2ba87eed203481601883][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38]
+[<<][5b2ba87eed203481601883][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38][18/Jun/21 13:30:38][took 0.004368 secs]
+[>>][5b2ba87eee46d888994195][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38]
+[<<][5b2ba87eee46d888994195][DEFAULT][/lib/execute/execDashboard.php][18/Jun/21 13:30:38][18/Jun/21 13:30:39][took 0.097839 secs]
+[<<][5b2ba8878f911013034345][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:30:47][18/Jun/21 13:30:47][took 0.150303 secs]
+[>>][5b2ba887b46fa507871559][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:30:47]
+[<<][5b2ba887b46fa507871559][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:30:47][18/Jun/21 13:30:47][took 0.007118 secs]
+[>>][5b2ba887b65a7034976852][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:30:47]
+	[18/Jun/21 13:30:47][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined index: tc_old_exec - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+	[18/Jun/21 13:30:47][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Trying to get property of non-object - in /var/www/html/testlink/gui/templates_c/5bdeb4d338d48ce05be102783392402ebf9802e0.file.attachments_simple.inc.tpl.php - Line 76
+[<<][5b2ba887b65a7034976852][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:30:47][18/Jun/21 13:30:47][took 0.204182 secs]
+[<<][5b2ba895a8601795004659][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:01][18/Jun/21 13:31:01][took 0.147671 secs]
+[>>][5b2ba895cc96c997625575][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:01]
+[<<][5b2ba895cc96c997625575][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:01][18/Jun/21 13:31:01][took 0.006867 secs]
+[>>][5b2ba895ce6b3758786722][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:01]
+[<<][5b2ba895ce6b3758786722][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:01][18/Jun/21 13:31:02][took 0.220767 secs]
+[<<][5b2ba899c540d387185921][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:05][18/Jun/21 13:31:05][took 0.129954 secs]
+[>>][5b2ba899e5279812971446][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:05]
+[<<][5b2ba899e5279812971446][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:05][18/Jun/21 13:31:05][took 0.007294 secs]
+[>>][5b2ba899e71b3396398341][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:05]
+[<<][5b2ba899e71b3396398341][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:05][18/Jun/21 13:31:05][took 0.046388 secs]
+[<<][5b2ba89e3a95c079946589][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:10][18/Jun/21 13:31:10][took 0.130018 secs]
+[>>][5b2ba89e5a7e7156456538][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:10]
+[<<][5b2ba89e5a7e7156456538][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:10][18/Jun/21 13:31:10][took 0.005876 secs]
+[>>][5b2ba89e5c06b465413453][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:10]
+	[18/Jun/21 13:31:10][AUDIT][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		Attachment '' - file 'testes realizados1.docx' was created
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 1 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 2 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 3 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 4 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 52
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 53
+	[18/Jun/21 13:31:10][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_NOTICE
+Undefined offset: 5 - in /var/www/html/testlink/lib/attachments/attachmentupload.php - Line 54
+[<<][5b2ba89e5c06b465413453][DEFAULT][/lib/attachments/attachmentupload.php][18/Jun/21 13:31:10][18/Jun/21 13:31:10][took 0.083252 secs]
+[<<][5b2ba8a1dbd57309105288][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:13][18/Jun/21 13:31:14][took 0.121307 secs]
+[>>][5b2ba8a2056f3735569994][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:14]
+[<<][5b2ba8a2056f3735569994][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:14][18/Jun/21 13:31:14][took 0.004531 secs]
+[>>][5b2ba8a2069f2479243035][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:14]
+[<<][5b2ba8a2069f2479243035][DEFAULT][/lib/execute/execSetResults.php][18/Jun/21 13:31:14][18/Jun/21 13:31:14][took 0.149031 secs]
+[<<][5b2ba8a8d6e15501363183][DEFAULT][/index.php][18/Jun/21 13:31:20][18/Jun/21 13:31:21][took 0.142392 secs]
+[>>][5b2ba8a905a70712002423][DEFAULT][/index.php][18/Jun/21 13:31:21]
+[<<][5b2ba8a905a70712002423][DEFAULT][/index.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.00454 secs]
+[<<][5b2ba8a91953d039469470][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.111882 secs]
+[>>][5b2ba8a934c30444673651][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:31:21]
+[<<][5b2ba8a934c30444673651][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.00725 secs]
+[>>][5b2ba8a936afa021746956][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:31:21]
+[<<][5b2ba8a936afa021746956][DEFAULT][/lib/general/navBar.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.075463 secs]
+[<<][5b2ba8a91a107477972870][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.240935 secs]
+[>>][5b2ba8a9550a1848105867][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:31:21]
+[<<][5b2ba8a9550a1848105867][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.007528 secs]
+[>>][5b2ba8a95704e331027340][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:31:21]
+[<<][5b2ba8a95704e331027340][DEFAULT][/lib/general/mainPage.php][18/Jun/21 13:31:21][18/Jun/21 13:31:21][took 0.111063 secs]
+[<<][5b2ba8aa8631e864089613][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:31:22][18/Jun/21 13:31:22][took 0.125871 secs]
+[>>][5b2ba8aaa50e2755173462][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:31:22]
+[<<][5b2ba8aaa50e2755173462][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:31:22][18/Jun/21 13:31:22][took 0.006433 secs]
+[>>][5b2ba8aaa6c3c289656211][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:31:22]
+[<<][5b2ba8aaa6c3c289656211][DEFAULT][/lib/general/frmWorkArea.php][18/Jun/21 13:31:22][18/Jun/21 13:31:22][took 0.037132 secs]
+[<<][5b2ba8aac5207849166984][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:31:22][18/Jun/21 13:31:22][took 0.128228 secs]
+[>>][5b2ba8aae494a610558000][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:31:22]
+[<<][5b2ba8aae494a610558000][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:31:22][18/Jun/21 13:31:22][took 0.006453 secs]
+[>>][5b2ba8aae64c9440342616][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:31:22]
+	[18/Jun/21 13:31:22][WARNING][hcma2u6qmp13aafr2mhgl47r86][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+[<<][5b2ba8aae64c9440342616][DEFAULT][/lib/testcases/listTestCases.php][18/Jun/21 13:31:22][18/Jun/21 13:31:23][took 0.164362 secs]
+[<<][5b2ba8aac66d8160706569][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:31:22][18/Jun/21 13:31:23][took 0.347876 secs]
+[>>][5b2ba8ab2758a917168024][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:31:23]
+[<<][5b2ba8ab2758a917168024][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.006964 secs]
+[>>][5b2ba8ab29323969872249][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:31:23]
+[<<][5b2ba8ab29323969872249][DEFAULT][/lib/testcases/archiveData.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.115496 secs]
+[<<][5b2ba8ab554e1200697224][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.129164 secs]
+[>>][5b2ba8ab74fa9159472529][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23]
+[<<][5b2ba8ab74fa9159472529][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.007142 secs]
+[>>][5b2ba8ab76df9636420557][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23]
+[<<][5b2ba8ab76df9636420557][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.093784 secs]
+[<<][5b2ba8aba8731258206992][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.127922 secs]
+[>>][5b2ba8abc7e07828557096][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23]
+[<<][5b2ba8abc7e07828557096][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.0090089999999999 secs]
+[>>][5b2ba8abca3d6181081463][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23]
+[<<][5b2ba8abca3d6181081463][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:23][took 0.061985 secs]
+[<<][5b2ba8abf2cfb736444687][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:23][18/Jun/21 13:31:24][took 0.121932 secs]
+[>>][5b2ba8ac1c94f713315056][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24]
+[<<][5b2ba8ac1c94f713315056][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24][18/Jun/21 13:31:24][took 0.00645 secs]
+[>>][5b2ba8ac1e64d181286027][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24]
+[<<][5b2ba8ac1e64d181286027][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24][18/Jun/21 13:31:24][took 0.036304 secs]
+[<<][5b2ba8ac391ba227288738][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24][18/Jun/21 13:31:24][took 0.092117 secs]
+[>>][5b2ba8ac4fb94078048597][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24]
+[<<][5b2ba8ac4fb94078048597][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24][18/Jun/21 13:31:24][took 0.006559 secs]
+[>>][5b2ba8ac516fc704826809][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24]
+[<<][5b2ba8ac516fc704826809][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:24][18/Jun/21 13:31:24][took 0.046263 secs]
+[<<][5b2ba8c168201746545467][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:45][18/Jun/21 13:31:45][took 0.137749 secs]
+[>>][5b2ba8c189ef3080914467][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:45]
+[<<][5b2ba8c189ef3080914467][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:45][18/Jun/21 13:31:45][took 0.0073460000000001 secs]
+[>>][5b2ba8c18be13756546789][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:45]
+[<<][5b2ba8c18be13756546789][DEFAULT][/lib/ajax/gettprojectnodes.php][18/Jun/21 13:31:45][18/Jun/21 13:31:45][took 0.068172 secs]

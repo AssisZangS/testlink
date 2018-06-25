@@ -1,0 +1,20 @@
+	[18/Feb/1 18:08:55][AUDIT][hhbf04i8kiug689c1fnh6s2os0][GUI]
+		Login for 'Bruno' from '10.212.134.8' succeeded
+[<<][5a7357b723c63421249854][DEFAULT][/login.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.029013 secs]
+[<<][5a7357b74fd91380037487][DEFAULT][/index.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.11979 secs]
+[>>][5a7357b76d44a060906717][DEFAULT][/index.php][18/Feb/1 18:08:55]
+[<<][5a7357b76d44a060906717][DEFAULT][/index.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.006695 secs]
+[<<][5a7357b7972ca217998518][DEFAULT][/lib/general/navBar.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.097042 secs]
+[>>][5a7357b7af026076636567][DEFAULT][/lib/general/navBar.php][18/Feb/1 18:08:55]
+[<<][5a7357b7af026076636567][DEFAULT][/lib/general/navBar.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.0050549999999999 secs]
+[>>][5a7357b7b058b303977835][DEFAULT][/lib/general/navBar.php][18/Feb/1 18:08:55]
+[<<][5a7357b7b058b303977835][DEFAULT][/lib/general/navBar.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.057813 secs]
+[<<][5a7357b7b2f30799497703][DEFAULT][/lib/general/mainPage.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.127555 secs]
+[>>][5a7357b7d2419747628984][DEFAULT][/lib/general/mainPage.php][18/Feb/1 18:08:55]
+[<<][5a7357b7d2419747628984][DEFAULT][/lib/general/mainPage.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.005196 secs]
+[>>][5a7357b7d3a64779136605][DEFAULT][/lib/general/mainPage.php][18/Feb/1 18:08:55]
+	[18/Feb/1 18:08:55][L18N][hhbf04i8kiug689c1fnh6s2os0][GUI]
+		string 'system_config' is not localized for locale 'pt_BR'  - using en_GB
+	[18/Feb/1 18:08:55][L18N][hhbf04i8kiug689c1fnh6s2os0][GUI]
+		string 'href_req_monitor_overview' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5a7357b7d3a64779136605][DEFAULT][/lib/general/mainPage.php][18/Feb/1 18:08:55][18/Feb/1 18:08:55][took 0.076456 secs]

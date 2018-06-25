@@ -1,0 +1,61 @@
+	[18/May/21 14:44:41][AUDIT][bbijti4dnfh1lf86ihglpscl11][GUI]
+		Login for '1884' from '192.168.85.133' succeeded
+[<<][5b02db595e08c398918794][DEFAULT][/login.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.02226 secs]
+[<<][5b02db597317f538571232][DEFAULT][/index.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.100061 secs]
+[>>][5b02db598bb06453721337][DEFAULT][/index.php][18/May/21 14:44:41]
+[<<][5b02db598bb06453721337][DEFAULT][/index.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.0079830000000001 secs]
+[<<][5b02db5998118413840275][DEFAULT][/lib/general/navBar.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.075441 secs]
+[>>][5b02db59aa97e684963941][DEFAULT][/lib/general/navBar.php][18/May/21 14:44:41]
+[<<][5b02db59aa97e684963941][DEFAULT][/lib/general/navBar.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.005007 secs]
+[>>][5b02db59abf33304125696][DEFAULT][/lib/general/navBar.php][18/May/21 14:44:41]
+[<<][5b02db59abf33304125696][DEFAULT][/lib/general/navBar.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.05308 secs]
+[<<][5b02db599a211777966543][DEFAULT][/lib/general/mainPage.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.156901 secs]
+[>>][5b02db59c08ab863498415][DEFAULT][/lib/general/mainPage.php][18/May/21 14:44:41]
+[<<][5b02db59c08ab863498415][DEFAULT][/lib/general/mainPage.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.004489 secs]
+[>>][5b02db59c1beb873179836][DEFAULT][/lib/general/mainPage.php][18/May/21 14:44:41]
+	[18/May/21 14:44:41][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'system_config' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 14:44:41][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'href_req_monitor_overview' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b02db59c1beb873179836][DEFAULT][/lib/general/mainPage.php][18/May/21 14:44:41][18/May/21 14:44:41][took 0.149306 secs]
+[<<][5b02df20cecac056163862][DEFAULT][/lib/general/frmWorkArea.php][18/May/21 15:00:48][18/May/21 15:00:48][took 0.135064 secs]
+[>>][5b02df20efef9490723473][DEFAULT][/lib/general/frmWorkArea.php][18/May/21 15:00:48]
+[<<][5b02df20efef9490723473][DEFAULT][/lib/general/frmWorkArea.php][18/May/21 15:00:48][18/May/21 15:00:48][took 0.007748 secs]
+[>>][5b02df20f1fbe212403114][DEFAULT][/lib/general/frmWorkArea.php][18/May/21 15:00:48]
+[<<][5b02df20f1fbe212403114][DEFAULT][/lib/general/frmWorkArea.php][18/May/21 15:00:48][18/May/21 15:00:49][took 0.134456 secs]
+[<<][5b02df2130cbb430834280][DEFAULT][/lib/execute/execNavigator.php][18/May/21 15:00:49][18/May/21 15:00:49][took 0.139167 secs]
+[>>][5b02df2152dfd925490251][DEFAULT][/lib/execute/execNavigator.php][18/May/21 15:00:49]
+[<<][5b02df2152dfd925490251][DEFAULT][/lib/execute/execNavigator.php][18/May/21 15:00:49][18/May/21 15:00:49][took 0.005321 secs]
+[>>][5b02df21544e5464264896][DEFAULT][/lib/execute/execNavigator.php][18/May/21 15:00:49]
+	[18/May/21 15:00:49][WARNING][bbijti4dnfh1lf86ihglpscl11][GUI]
+		E_WARNING
+file_put_contents(/development/var/tracer.log): failed to open stream: No such file or directory - in /var/www/html/testlink/lib/functions/tlFilterControl.class.php - Line 268
+	[18/May/21 15:00:49][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'without_keywords' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:49][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'not_linked' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:49][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'hint_list_of_bugs' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'bugs_on_context' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'btn_export_testplan_tree_for_results' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'tester_works_with_settings' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'btn_bulk_remove' is not localized for locale 'pt_BR'  - using en_GB
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'btn_bulk_copy' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b02df21544e5464264896][DEFAULT][/lib/execute/execNavigator.php][18/May/21 15:00:49][18/May/21 15:00:50][took 0.68728 secs]
+[<<][5b02df213296e293137532][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:49][18/May/21 15:00:50][took 0.902805 secs]
+[>>][5b02df221afe2370651271][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50]
+[<<][5b02df221afe2370651271][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50][18/May/21 15:00:50][took 0.0069 secs]
+[>>][5b02df221cce1544617845][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50]
+	[18/May/21 15:00:50][L18N][bbijti4dnfh1lf86ihglpscl11][GUI]
+		string 'execution_context' is not localized for locale 'pt_BR'  - using en_GB
+[<<][5b02df221cce1544617845][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50][18/May/21 15:00:50][took 0.144291 secs]
+[<<][5b02df2270433083833397][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50][18/May/21 15:00:50][took 0.127647 secs]
+[>>][5b02df228f93c973758799][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50]
+[<<][5b02df228f93c973758799][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50][18/May/21 15:00:50][took 0.0057940000000001 secs]
+[>>][5b02df2291184722407039][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50]
+[<<][5b02df2291184722407039][DEFAULT][/lib/execute/execDashboard.php][18/May/21 15:00:50][18/May/21 15:00:50][took 0.081036 secs]

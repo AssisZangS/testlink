@@ -34,9 +34,6 @@ File: //testlinkti.stara.com.br/gui/templates/attachments_simple.inc.tpl
 ```
 
 <h3>icon added in:</h3>
-```
-//testlinkti.stara.com.br/gui/themes/default/images
-upload_s.png
-```
+```//testlinkti.stara.com.br/gui/themes/default/images/upload_s.png```
 
 

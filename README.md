@@ -8,7 +8,7 @@
 
 File: //testlinkti.stara.com.br/gui/templates/attachments_simple.inc.tpl
 
-<h3>Before changes:</h3>
+<h3>Before the changes:</h3>
 
 ``` HTML
 <div  style="text-align:left;margin:3px;background:#CDE;padding: 3px 3px 3px 3px;border-style: groove;border-width: thin;">

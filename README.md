@@ -1,6 +1,6 @@
 <h1>Current version of Testlink</h1>
 
-<h2>Before being added to Git, the following changes were made:</h2>
+<h2>Before being added to Github, the following changes were made:</h2>
 
 
 <h3>Latest Changes:</h3>

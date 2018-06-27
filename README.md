@@ -6,7 +6,7 @@
 <h3>Latest Changes:</h3>
 
 
-File: //testlinkti.stara.com.br/gui/templates/attachments_simple.inc.tpl
+File: /gui/templates/attachments_simple.inc.tpl
 
 <h3>Before the changes:</h3>
 
@@ -34,6 +34,6 @@ File: //testlinkti.stara.com.br/gui/templates/attachments_simple.inc.tpl
 ```
 
 <h3>icon added in:</h3>
-```//testlinkti.stara.com.br/gui/themes/default/images/upload_s.png```
+```/gui/themes/default/images/upload_s.png```
 
 
